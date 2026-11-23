@@ -1,0 +1,14 @@
+synth/
+data/
+__pycache__/
+*.pyc
+*.pt
+*.npz
+*.wav
+.DS_Store
+plugin/build/
+listening_test/frontend/node_modules/
+listening_test/frontend/dist/
+listening_test/backend/*.db
+listening_test/backend/results*/
+evaluation/final_test/results*/

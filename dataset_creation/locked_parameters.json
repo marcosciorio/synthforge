@@ -1,0 +1,90 @@
+{
+  "LFO_1": [
+    "lfo1waveform",
+    "lfo1rate",
+    "lfo1amount",
+    "lfo1phase",
+    "lfo1keytrigger",
+    "lfo1destination"
+  ],
+  "LFO_2": [
+    "lfo2waveform",
+    "lfo2rate",
+    "lfo2amount",
+    "lfo2phase",
+    "lfo2keytrigger",
+    "lfo2destination"
+  ],
+  "OSC_1": [
+    "osc1waveform",
+    "osc1tune",
+    "osc1finetune",
+    "osc1phase",
+    "osc1pw"
+  ],
+  "OSC_2": [
+    "osc2waveform",
+    "osc2tune",
+    "osc2finetune",
+    "osc2phase",
+    "osc2fm"
+  ],
+  "MIXER_AND_MASTER": [
+    "osc1volume",
+    "osc2volume",
+    "osc3volume", 
+    "oscsync",
+    "ringmodulation"
+  ],
+  "FILTER": [
+    "filtertype",
+    "filtercutoff",
+    "filterresonance",
+    "filtercontour",
+    "filterattack",
+    "filterdecay",
+    "filtersustain",
+    "filterrelease"
+  ],
+  "AMP_AND_FREE_AD": [
+    "ampattack",
+    "ampdecay",
+    "ampsustain",
+    "amprelease",
+    "freeadattack",
+    "freeaddecay",
+    "freeadamount",
+    "freeaddestination"
+  ],
+
+  "VELOCITY_AND_TWEAKS": [
+    "oscbitcrusher",
+    "vintagenoise",
+    "filterdrive"
+  ],
+"CALIB": [
+    "masterhighpass",
+    "masterdetune"
+  ],
+  "EFFECTS_CHORUS": [
+    "chorus1enable",
+    "chorus2enable"
+  ],
+  "EFFECTS_REVERB": [
+    "reverbwet",
+    "reverbdecay",
+    "reverbpredelay",
+    "reverbhighcut",
+    "reverblowcut"
+  ],
+"EFFECTS_DELAY": [
+    "delaywet",
+    "delaytime",
+    "delaysync",
+    "delayhighshelf",
+    "delaylowshelf",
+    "delayfeedback",
+    "delayx2l",
+    "delayx2r"
+  ]
+}
